@@ -6,7 +6,7 @@ Time to get social. Isn’t it ? Then why wait. Get Started now. Finally, Dubify
 
 <img src="https://firebasestorage.googleapis.com/v0/b/dubify-7f0f8.appspot.com/o/unknown.png?alt=media&token=80f896ad-4835-4e0c-8474-9e04495e38ab" align="center">
 
-<a href="https://webkirti-social-media-website.netlify.app/" target="_blank"> <h2> Live Webiste </h2> </a>
+<a href="https://webkirti-social-media-website.netlify.app/" target="_blank"> <h2> Live Website </h2> </a>
 
 
 ## Features Implemented
