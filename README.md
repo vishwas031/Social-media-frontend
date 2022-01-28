@@ -95,8 +95,11 @@ Time to get social. Isn’t it ? Then why wait. Get Started now. Finally, Dubify
 <br>
 
 ### Dummy Login Credentials
-  Username - Admin_1
-  Password - 123456
+  Username - Test1  Password - 123456
+  
+  Username - Test2  Password - 123456
+  
+  Username - Test3  Password - 123456
   
  <br>
  
