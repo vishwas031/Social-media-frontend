@@ -4,6 +4,16 @@
 
 Time to get social. Isn’t it ? Then why wait. Get Started now. Finally, Dubify is here to help you get connected with the world providing an easy to use environment with an amazing interface, meeting all your needs like posts creating, sharing, comments, likes, adding and viewing stories, managing personal information and  much more waiting to be discovered. Bored with the regular theme ? Don’t Worry. Dark Mode is ready for you.
 
+#### Dummy Credentials : 
+
+Username - Test1   Password - 123456
+
+Username - Test2   Password - 123456
+
+Username - Test3   Password - 123456
+
+
+
 <img src="https://firebasestorage.googleapis.com/v0/b/dubify-7f0f8.appspot.com/o/unknown.png?alt=media&token=80f896ad-4835-4e0c-8474-9e04495e38ab" align="center">
 
 <a href="https://webkirti-social-media-website.netlify.app/" target="_blank"> <h2> Live Website </h2> </a>
@@ -91,16 +101,6 @@ Time to get social. Isn’t it ? Then why wait. Get Started now. Finally, Dubify
     - getUserStory -> Fetch the user's story if uploaded.
     - updateLikeStory -> Update like on a story image.
     - updateViewStory -> Increase view on user's story.
-
-<br>
-
-### Dummy Login Credentials
-  Username - Test1  Password - 123456
-  
-  Username - Test2  Password - 123456
-  
-  Username - Test3  Password - 123456
-  
  <br>
  
  <h2 align="center">Technologies Used</h2>
